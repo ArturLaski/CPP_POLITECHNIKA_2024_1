@@ -76,8 +76,20 @@ Projekt/
 
 ---
 
-
 ## Autor
 
 - **Łukasz Łaski**
 - Data: 18 grudnia 2024
+---
+
+## Dane testowe
+
+Dane wejściowe do testów:
+- \( M_s = 6000 \, \text{Nm} \)
+- \( l = 0.8 \, \text{m} \)
+
+## Wyniki:
+- W radianach: \( \varphi = 0.00876872 \, \text{rad} \)
+- W stopniach: \( 0.502411^\circ \)
+
+---
